@@ -1,7 +1,5 @@
 # -*- coding: UTF-8 -*-
 import sys,socket,time,Queue,threading,optparse
-#author thewind
-#mail: wang1241202#163.com
 #扫描ip地址(掩码24)redis未授权访问漏洞
 
 def Time():
